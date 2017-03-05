@@ -1,0 +1,85 @@
+#guide{
+	margin-top:20px;
+	margin-left:30px;
+	margin-bottom:20px;
+}
+
+.achange:link{
+	text-decoration:none;
+	color:#A9A9A9;
+}
+
+.achange:visited{
+	color:#075991;
+}
+
+.achange:active{
+	color:#FFFFFF;
+}
+	
+#chagemain{
+	background-color:#FFFFFF;
+	width:960px;
+	height:500px;
+}
+
+#changelist{
+	width:235px;
+	height:500px;
+	float:left;
+}
+
+/* #shore{ */
+	/* width:5px; */
+	/* height:495px; */
+	/* float:left; */
+/* } */
+
+
+#changeitem{
+	width:715px;
+	height:500px;
+	float:left;
+	border-left:10px dotted #ccc;
+}
+
+.liststyle{
+	font-size:1.8em;
+	margin-top:40px;
+	margin-left:40px;
+	line-height:100px;
+	text-decoration:none;
+	font-family:楷体;
+}
+
+#formad{
+	margin-left:150px;
+	margin-top:120px;
+}
+
+#username{
+	width:200px;
+	height:20px;
+}
+
+#useremail{
+	width:200px;
+	height:20px;
+}
+
+#userqq{
+	width:200px;
+	height:20px;
+}
+
+#surechange{
+	width:80px;
+	height:30px;
+}
+
+
+
+
+
+
+

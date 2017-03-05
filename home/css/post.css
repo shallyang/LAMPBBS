@@ -1,0 +1,118 @@
+#post{
+	/* background-color:red; */
+	weight:960px;
+	/* height:570px; */
+}
+
+/* #hrcss{ */
+	/* background-color:#FFFFFF; */
+	/* margin-top:0px; */
+	/* margin-bottom:0px; */
+	/* border-top:8px; */
+	/* border-bottom:8px; */
+/* } */
+
+
+.post:link{
+	text-decoration:none;
+	color:#A9A9A9;
+}
+
+.post:visited{
+	color:#075991;
+}
+
+.post:active{
+	color:#FFFFFF;
+}
+
+#guide{
+	margin-top:20px;
+	margin-left:30px;
+	margin-bottom:20px;
+}
+
+#topdiv{
+	/* background-color:red; */
+	border-top:3px solid #888888;
+}
+
+#bbstitle{
+	margin-top:15px;
+	margin-left:12px;
+	font-style:bold;
+}
+
+#bbsword{
+	float:left;
+	margin:0px;
+	padding-top:25px;
+	padding-bottom:13px;
+	font-size:0.8em;	
+}
+
+#inputtime{
+	float:left;
+	margin:0px;
+	padding:0px;
+	font-size:0.9em;
+}
+
+#onlyplate{
+	height:90px;
+	width:480px;
+}
+
+#bbssearch{
+	margin-top:5px;
+	margin-left:10px;
+	width:120px;
+	height:13px;
+}
+
+#bbssearchbt{
+	margin-left:3px;
+	margin-top:5px;
+	height:19px;
+	width:30px;
+}
+
+.lipage{
+	list-style:none;
+	float:left;
+	padding-right:10px;
+}
+
+.pagea:link{
+	text-decoration:none;
+	background-color:#F9F9F9;
+	color:#000000;
+}
+
+.pagea:visited{
+	color:#075991;
+}
+
+.pagea:active{
+	color:#FFFFFF;
+}
+
+.timeintable{
+	color:#000000;
+	font-size:0.5em;
+	
+}
+
+.lastpush{
+	text-align:center;
+}
+
+.valigncenter{
+	line-height:35px;
+	height:35px; 
+}
+
+.newmessage{
+	float:right;
+	margin:5px;
+}

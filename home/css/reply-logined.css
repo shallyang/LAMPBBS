@@ -1,0 +1,153 @@
+#bbspagelisttop{
+	width:960px;
+	height:40px;
+	background-color:#F7F7F7;
+	border-top:3px solid #888;
+	border-bottom:2px solid #D9D9D9;
+}
+
+.bbspagelisttopchild{
+	width:38px;
+	height:40px;
+	border-right:2px dotted #D9D9D9;
+	float:left;	
+}
+
+#bbspagename{
+	width:880px;
+	height:40px;
+	float:left;	
+}
+
+.readreplytitle{
+	font-size:0.5rem;
+	text-align:center;
+	line-height:10px;
+}
+
+.readreplynum{
+	font-size:0.5rem;
+	text-align:center;
+	line-height:20px;
+}
+
+#bbsarticletitle{
+	font-size:1.5rem;
+	line-height:40px;
+	padding-left:20px;
+}
+
+.bbsarticlereplaylist{
+	width:960px;
+	height:398px;
+	background-color:#FFFFFF;
+	border-bottom:2px solid #D9D9D9;
+	float:left;	
+}
+
+.bbsarticlereplaylistleft{
+	width:190px;
+	height:398px;
+	background-color:#F7F7F7;
+	float:left;	
+}
+
+.bbsarticlereplaylistright{
+	width:770px;
+	height:398px;
+	background-color:#FFFFFF;
+	float:left;	
+}
+
+.bbsarticlereplayuserhead{
+	width:100px;
+	height:100px;
+	margin:43px;
+	border:1px solid #ccc;
+	
+}
+
+.bbsarticlereplayusername{
+	font-size:2rem;
+	text-align:center;
+	margin-bottom:20px;
+}
+
+.bbsarticlereplayuserlevel{
+	font-size:1rem;
+	text-align:center;
+}
+
+.bbsarticlereplayhead{
+	width:770px;
+	height:48px;
+	border-bottom:2px dotted #E5E5E5;
+}
+
+.bbsarticlereplaybody{
+	width:770px;
+	height:318px;
+}
+
+.bbsnet{
+	width:770px;
+	height:30px;
+}
+
+.bbsarticlereplayinfo{
+	line-height:60px;
+	padding-left:20px;
+}
+
+.bbsarticlereplayorder{
+	color:red;
+	font-size:.5rem;
+}
+
+.bbsarticlereplaytime{
+	font-size:.5rem;
+}
+
+.bbsarticlereplaybodyinfo{
+	padding-top:8px;
+	padding-left:20px;
+}
+
+.bbsnetinfo{
+	line-height:30px;
+	padding-left:20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,366 @@
+﻿/*主体框架*/
+#head,#content,#foot{
+/*	border:1px solid blue; */
+	
+}
+
+/*head区域样式开始*/
+#head{
+	width:960px;
+	height:100px;
+	background-color:#F1F2F6;
+	margin:0 auto;
+}
+
+.formword{
+	font-size:5px;
+	text-decoration:none;
+	color:#A9A9A9;
+}
+
+#top{
+	width:960px;
+	height:20px;
+	background-color:#E6E9EE;	
+}
+
+#topleft{
+	align:left;
+	font-size:10px;
+	padding-top:5px;
+}
+
+#topright{
+	align:right;
+	font-size:10px;
+	
+}
+
+#litopleft{
+	list-style:none;
+	float:left;
+	padding-left:10px;
+}
+
+#litopright{
+	list-style:none;
+	float:right;
+	padding-right:10px;
+	
+}
+
+.topa:link{
+	text-decoration:none;
+	color:#A9A9A9;
+}
+
+.topa:visited{
+	color:#075991;
+}
+
+.topa:active{
+	color:#FFFFFF;
+}
+
+/* logo的样式,从左开始, */
+#logo1{
+	width:233px;
+	height:80px;
+	float:left;
+}
+
+#logo2{
+	margin:0px;
+	padding:0px;
+	padding-left:0px;
+	width:200px;
+	position:relative;
+	top:-105px;
+	left:230px;
+}
+
+.login{
+	position:relative;
+	top:-75px;
+	left:760px;
+	width:200px;
+	height:70px;
+	clear:both;
+}
+
+#loginimg{
+	width:50px;
+	height:50px;
+	padding:10px;
+}
+#logintable{
+	position:relative;
+	top:-70px;
+	left:70px;
+}
+
+.tablesize{
+	padding-top:10px;
+	width:65px;
+	font-family:楷体;
+}
+
+/* 右上角登录处表单的样式设置 */
+input[type="text"]{
+	width:100px;
+	height:10px;
+	font-size:8px;
+}
+
+/* input[type="checkbox"]{ */
+	/* margin-top:5px; */
+	/* padding:200px; */
+	
+/* } */
+
+input[type="password"]{
+	width:100px;
+	height:10px;
+	font-size:8px;
+}
+
+input[type="submit"]{
+	width:28px;
+	height:18px;
+	font-size:5px;
+	margin-left:20px;
+	padding:0px;
+}
+
+input[type="button"]{
+	width:28px;
+	height:18px;
+	font-size:6px;
+	margin-left:20px;
+	padding:0px;
+}
+
+
+
+/*head区域样式结束*/
+
+
+/*content区域样式开始*/
+#content{
+	width:960px;
+	background-color:#F1F2F6;
+	margin:0 auto;
+}
+
+#banner{
+	width:960px;
+	height:35px;
+	background-color:#075991;
+}
+
+#libanner{
+	list-style:none;
+	padding-left:27px;
+	padding-right:27px;
+	padding-top:9px;
+	float:left;
+	font-weight:bold;
+	font-family:黑体;
+}
+
+.bana:link{
+	text-decoration:none;
+	color:#FFFFFF;
+}
+
+.bana:visited{
+	color:#FFFFFF;
+}
+
+.bana:active{
+	color:#A9A9A9;
+}
+
+#photo{
+	width:960px;
+	height:335px;
+	padding:5px;
+	margin:0px;
+}
+
+#photoleft{
+	align:left;
+	width:180px;
+	height:330px;		
+	float:left;
+}
+
+#active{
+	width:600px;
+	height:330px;
+	float:left;
+}
+
+#photoright{
+	align:right;
+	width:180px;
+	height:330px;
+	float:left;
+}
+
+#wechat{
+	padding-top:5px;
+}
+
+#history{
+	padding-top:9px;
+}
+
+#active{
+	padding-top:5px;
+}
+
+#qqchat{
+	padding-top:9px;
+}
+
+#video{
+	padding-top:5px;
+}
+
+.bbsbanner{
+	width:960px;
+	height:35px;
+	background-image:url(../images/h.png);
+	background-size:100%;
+}
+
+.chattecho{
+	width:960px;
+	background-color:#FFFFFF;
+	margin-bottom:12px;
+}
+
+
+/*#question{
+	width:960px;
+	height:210px;
+}
+
+
+#otherlink{
+	width:960px;
+	height:210px;
+}
+ */
+.p{
+	margin:0px;
+	padding-left:30px;
+	padding-top:7px;
+	font-size:1.35em;
+	font-weight:bold;
+	
+}
+/* BBS板块设置 */
+.bbsplate{
+	width:960px;
+	height:180px;
+}
+
+.plateleft{
+	width:320px;
+	height:180px;
+	float:left;
+}
+
+.platecenter{
+	width:320px;
+	height:180px;
+	float:left;
+}
+
+.plateright{
+	width:320px;
+	height:180px;
+	float:left;
+}
+/* 单独的论坛板块 */
+.onlyplate{
+	height:90px;
+	width:320px;
+    float:left;
+    margin-right:0px;
+}
+
+.platehead{
+	float:left;
+	margin:10px;
+	width:70px;
+	height:70px; 
+	margin-bottom:4px;
+}
+
+.bbsname{
+	float:left;
+	margin:0px;
+	padding-top:5px;
+	font-size:1.2em;
+	color:blue;
+	font-weight:bold;
+}
+
+.bbsword{
+	float:left;
+	margin:0px;
+	padding-top:5px;
+	padding-bottom:13px;
+	font-size:0.8em;	
+}
+
+.theme{
+	float:right;
+	margin-right:20px;
+	padding-top:6px;
+	font-size:0.8em;
+}
+
+.inputtime{
+	float:left;
+	margin:0px;
+	padding:0px;
+	font-size:0.9em;
+}
+
+.friendlink{
+	text-decoration:none;
+	padding-right:10px;
+	margin-top:10px;
+	float:left;
+}
+
+#otherlink{
+	width:960px;
+	height:50px;
+}
+
+
+/*content区域样式结束*/
+
+
+/*foot区域样式开始*/
+#foot{
+	width:960px;
+	height:40px;
+	background-color:#F1F2F6;
+	margin:0 auto;
+	
+}
+.info{
+	font-size:0.5em;
+	text-align:center;
+	margin-top:15px;
+	margin-bottom:10px;
+}
+
+/*foot区域样式结束*/
+

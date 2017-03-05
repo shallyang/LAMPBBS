@@ -1,0 +1,98 @@
+#regbody{
+	background-color:#FFFFFF;
+	width:960px;
+	height:535px;
+}
+
+#regtitle{
+	font-size:1.5em;
+	margin-left:8px;
+	margin-top:15px;
+}
+
+#regprompt{
+	background-color:#FFFAE1;
+	width:560px;
+	height:25px;
+	line-height:25px;
+	font-size:0.6px;
+	margin-right:0px;
+	margin-left:8px;
+	margin-top:5px;
+	margin-bottom:20px;
+	padding:0px;
+	float:left;
+}
+
+#regform{
+	background-color:#FFFFFF;
+	width:450px;
+	height:300px;
+	margin-right:0px;
+	margin-left:50px;
+	margin-top:5px;
+	float:left;
+	padding:30px;
+	clear:all;
+}
+
+#resrelogin{
+	background-color:#FFFFFF;
+	width:330px;
+	height:100px;
+	float:right;
+	margin-right:0px;
+	margin-top:5px;
+	border-left:2px dotted #cccccc;
+	padding:30px;
+	
+}
+
+.mustinput{
+	color:red;
+	font-size:1.5em;
+}
+
+#uservalue{
+	text-decoration:none;
+}
+
+#username{
+	width:250px;
+	height:22px;
+	font-size:1em;
+}
+
+#password1{
+	width:250px;
+	height:22px;
+	font-size:1em;
+}
+
+#password2{
+	width:250px;
+	height:22px;
+	font-size:1em;
+}
+
+#email{
+	width:250px;
+	height:22px;
+	font-size:1em;
+}
+
+
+#regsubmit{
+	width:45px;
+	height:25px;
+	font-size:1em;
+}
+
+
+
+
+
+
+
+
+
